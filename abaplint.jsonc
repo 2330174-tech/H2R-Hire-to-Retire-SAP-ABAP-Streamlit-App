@@ -1,0 +1,19 @@
+{
+  "$schema": "https://schema.abaplint.org/config-1.2.json",
+  "global": {
+    "files": "/**/*.*",
+    "skipGeneratedGatewayClasses": true
+  },
+  "syntax": {
+    "version": "v754"
+  },
+  "rules": {
+    "begin_end_names": true,
+    "line_length": {
+      "maxLineLength": 120
+    },
+    "parser_error": true,
+    "unknown_types": true,
+    "unused_variables": true
+  }
+}
