@@ -1,0 +1,38 @@
+[
+  {
+    "employee_id": "EMP1001",
+    "full_name": "Aarav Sharma",
+    "gender": "Male",
+    "date_of_birth": "2000-04-12",
+    "date_of_joining": "2025-07-01",
+    "department": "Human Resources",
+    "designation": "HR Executive",
+    "location": "Mumbai",
+    "manager_name": "Priya Nair",
+    "email": "aarav.sharma@example.com",
+    "phone": "9876543210",
+    "basic_salary": 35000,
+    "status": "Active",
+    "leave_balance": 18,
+    "last_action": "Hire",
+    "updated_at": "2026-04-18 01:17:26"
+  },
+  {
+    "employee_id": "EMP1002",
+    "full_name": "Meera Patel",
+    "gender": "Female",
+    "date_of_birth": "1998-09-21",
+    "date_of_joining": "2024-11-15",
+    "department": "Finance",
+    "designation": "Analyst",
+    "location": "Pune",
+    "manager_name": "Rohan Desai",
+    "email": "meera.patel@example.com",
+    "phone": "9988776655",
+    "basic_salary": 42000,
+    "status": "Active",
+    "leave_balance": 12,
+    "last_action": "Hire",
+    "updated_at": "2026-04-18 01:17:26"
+  }
+]
